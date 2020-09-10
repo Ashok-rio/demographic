@@ -1,0 +1,37 @@
+.homeMainContainer{
+    margin-top: 180px;
+    justify-content: center;
+    align-content: center;
+    padding: 20px;
+    width: "100%";
+}
+.homeCard{
+    border-radius: 15px;
+}
+
+.buttonColom{
+    padding: 20px;
+    align-content: center;
+    text-align: center;
+}
+.buttonRow{
+    margin-top: 40px;
+}
+.getButton{
+    width: 80%;
+    height: 50px;
+    font-weight: 600;
+}
+.areaText {
+    display: block;
+    width: 100%;
+    height: calc(1.5em + .75rem + 2px);
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
